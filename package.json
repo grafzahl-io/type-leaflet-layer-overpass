@@ -1,0 +1,23 @@
+{
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Oliver Schörwerth",
+      "url": "https://github.com/grafzahl-io"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript Type Definitions for Leaflet Plugin leaflet-layer-overpass ",
+  "homepage": "https://github.com/grafzahl-io/type-leaflet-layer-overpass",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/type-leaflet-layer-overpass",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grafzahl-io/type-leaflet-layer-overpass.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "version": "1.0.0"
+}
