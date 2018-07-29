@@ -8,14 +8,14 @@
   ],
   "dependencies": {},
   "deprecated": false,
-  "description": "TypeScript Type Definitions for Leaflet Plugin leaflet-layer-overpass ",
-  "homepage": "https://github.com/grafzahl-io/type-leaflet-layer-overpass",
+  "description": "TypeScript Type Definitions for Leaflet Plugin leaflet-overpass-layer",
+  "homepage": "https://github.com/grafzahl-io/leaflet-overpass-layer",
   "license": "MIT",
   "main": "",
-  "name": "@types/type-leaflet-layer-overpass",
+  "name": "@types/leaflet-overpass-layer",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grafzahl-io/type-leaflet-layer-overpass.git"
+    "url": "git+https://github.com/grafzahl-io/leaflet-overpass-layer.git"
   },
   "scripts": {},
   "typeScriptVersion": "2.3",
